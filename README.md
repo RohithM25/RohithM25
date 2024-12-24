@@ -1,8 +1,9 @@
 ## Hi,
 My name is Rohith Malangi, I am a Computer Science student who loves learning about new technologies, building projects, and improving my problem-solving skills. I am particularly interested in leveraging software to combat environmental challenges.
-I'm currently working on a project to optimize computer vision models for edge devices, specifically for wildfire detection.
+I'm currently working on a project to optimize computer vision models for edge devices, specifically for wildfire detection. 
+I'm also trying to familiarize myself with the latest generative AI software development tools to code faster.
 
-I'm also currently looking for full-time roles in software engineering. If you know of any, definitely hit me up!
+I'm currently looking for full-time roles in software engineering so if you know of any, definitely hit me up!
 
 Fun fact: I'm on a Indian fusion dance team
 
